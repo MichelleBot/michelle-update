@@ -1,13 +1,5 @@
-[
 {
- "status": true
- "data": {
-  "_id": "beta.3.0.0",
-  "version": "3.0.0",
-  "commit": "bug fixed",
-  "url": "https://github.com/MichelleBot/",
-  "type": "beta",
-  "at": "Kamis 06 Juni 2024"
-  }
+   "semantic": {
+      "version": "4.1.22"
+   }
 }
-]
