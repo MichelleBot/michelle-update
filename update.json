@@ -1,13 +1,10 @@
 [
-{
-  status: true,
-  data: {
+ {
     _id: 'beta.3.0.0',
     version: '3.0.0',
     commit: 'bug fixed',
     url: 'undefined',
     type: 'beta',
     at: 0
-  }
-}
+ }
 ]
